@@ -1,6 +1,3 @@
-![Screenshot (7)](https://user-images.githubusercontent.com/88618196/129950290-1e1a012a-e0b1-4bcf-be5c-b33424221304.png)
-![Screenshot (10)](https://user-images.githubusercontent.com/88618196/129950308-89c919e8-b83c-48d9-9f5d-c7d05db1cf08.png)
-![Screenshot (8)](https://user-images.githubusercontent.com/88618196/129950320-3bb35dce-9666-4b0d-9058-af81cbe79d26.png)
 Project Name: Audit_Task_2 
 A project that implements all CSS properties.
 This project was assigned to test our CSS skills and to help us to undrstand the language more.
@@ -17,6 +14,11 @@ CSS attribute:1.background-image
 Screenshot
 1.Index Page
 ![Screenshot (6)](https://user-images.githubusercontent.com/88618196/129949600-0c5d0000-b45b-43a9-ac23-e2870e30491c.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/88618196/129950290-1e1a012a-e0b1-4bcf-be5c-b33424221304.png)
+2.Border Page
+![Screenshot (10)](https://user-images.githubusercontent.com/88618196/129950308-89c919e8-b83c-48d9-9f5d-c7d05db1cf08.png)
+3.Image Pge
+![Screenshot (8)](https://user-images.githubusercontent.com/88618196/129950320-3bb35dce-9666-4b0d-9058-af81cbe79d26.png)
 
 
 
