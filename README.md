@@ -13,3 +13,7 @@ CSS attribute:1.background-image
 12.border (none,dotted,dashed,solid,double,groove,ridge,inset,outset,hidden,mix)
 Screenshot
 1.Index Page
+![Screenshot (6)](https://user-images.githubusercontent.com/88618196/129949600-0c5d0000-b45b-43a9-ac23-e2870e30491c.png)
+
+
+
